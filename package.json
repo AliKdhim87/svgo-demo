@@ -1,0 +1,15 @@
+{
+  "name": "svgo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "svgo": "svgo -f ./svg -o ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "svgo": "3.0.2"
+  }
+}
